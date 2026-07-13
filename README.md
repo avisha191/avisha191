@@ -12,11 +12,11 @@
 
 ## About Me
 
-B.Tech Computer Science student at VIT Bhopal University (CGPA 9.19/10), currently working as an AI & ML Intern at Venura Technologies.
+I'm a Computer Science undergraduate at VIT Bhopal University (CGPA 9.19/10) with a strong interest in software engineering, backend development, and building scalable applications.
 
-My primary interest is software engineering, particularly backend development, scalable systems, and problem solving. During my internship, I've been building enterprise Retrieval-Augmented Generation (RAG) applications using FastAPI, LangChain, and FAISS, while learning how to design software that is reliable, maintainable, and production-ready.
+Currently working as an AI & ML Intern at Venura Technologies, where I develop enterprise Retrieval-Augmented Generation (RAG) systems using FastAPI, LangChain, and FAISS.
 
-Outside of project work, I spend time solving DSA problems, learning system design, and contributing to open source.
+Outside of that, I spend time solving DSA problems, learning system design, and contributing to open source.
 
 ---
 
@@ -27,14 +27,6 @@ Outside of project work, I spend time solving DSA problems, learning system desi
 - Learning system design
 - Exploring Docker and cloud deployment
 - Improving enterprise RAG systems
-
----
-
-## Education
-
-**VIT Bhopal University**
-B.Tech in Computer Science & Engineering
-CGPA: 9.19 / 10
 
 ---
 
@@ -53,46 +45,42 @@ CGPA: 9.19 / 10
 
 ## Featured Projects
 
-**DocuTrust**
+### [DocuTrust](https://github.com/avisha191/DocuTrust)
 
 Enterprise Retrieval-Augmented Generation platform for intelligent document question answering.
 
 Highlights
-- FastAPI backend
-- LangChain retrieval pipeline
-- FAISS semantic search
-- CrossEncoder reranking
-- Groq LLM integration
-- Source-cited responses
+- End-to-end semantic retrieval pipeline using LangChain and FAISS
+- Improved retrieval quality through CrossEncoder reranking
+- Groq LLM integration for low-latency inference
+- Source-cited answers over PDF documents
 
 `Python` `FastAPI` `LangChain` `FAISS` `Groq`
 
 ---
 
-**Myndly**
+### [Myndly](https://github.com/avisha191/myndly)
 
 AI-powered mental health companion built using the MERN stack.
 
 Highlights
-- Secure authentication
+- Secure authentication and user management
 - Conversational AI chatbot
-- RESTful backend
-- MongoDB integration
+- RESTful backend with MongoDB integration
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-**Women Safety Analytics**
+### [Women Safety Analytics](https://github.com/avisha191/women-safety-analytics)
 
 Crime hotspot detection using clustering and geospatial visualization.
 
 Highlights
-- Processed large crime datasets
-- DBSCAN clustering
-- Interactive Folium maps
+- Crime hotspot detection using DBSCAN clustering
+- Interactive geospatial visualizations with Folium
 
-`Python` `DBSCAN` `Folium`
+`Python` `DBSCAN` 
 
 ---
 
@@ -100,10 +88,10 @@ Highlights
 
 **AI & ML Intern — Venura Technologies**
 
-- Built backend services for an enterprise Retrieval-Augmented Generation platform
-- Developed semantic retrieval pipelines using FastAPI, LangChain, and FAISS
-- Improved retrieval quality using CrossEncoder reranking
-- Integrated Groq LLM for low-latency inference
+- Developing backend services for an enterprise Retrieval-Augmented Generation platform
+- Building semantic retrieval pipelines using FastAPI, LangChain, and FAISS
+- Improving retrieval accuracy using CrossEncoder reranking
+- Integrating Groq LLM for low-latency inference
 
 ---
 
@@ -118,7 +106,6 @@ Highlights
 
 - Rank 94 — National Cybersecurity Hackathon, IIIT Kottayam
 - Core Member — UX Club
-- CGPA: 9.19/10
 
 ---
 
@@ -151,6 +138,10 @@ Highlights
 
 <a href="mailto:avishasahu19@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/avisha-sahu-74b34428a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/avisha191">
