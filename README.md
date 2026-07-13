@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Avisha%20Sahu&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20AI%20%26%20ML&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Avisha%20Sahu&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20and%20ML&descAlignY=52&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+scalable+backend+applications;Solving+DSA+for+Software+Engineering;Learning+System+Design;Exploring+AI-powered+software)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 I'm a Computer Science undergraduate at VIT Bhopal University (CGPA 9.19/10) with a strong interest in software engineering, backend development, and building scalable applications.
 
-Currently working as an AI & ML Intern at Venura Technologies, where I develop enterprise Retrieval-Augmented Generation (RAG) systems using FastAPI, LangChain, and FAISS.
+Currently working as an AI and ML Intern at Venura Technologies, where I develop enterprise Retrieval-Augmented Generation (RAG) systems using FastAPI, LangChain, and FAISS.
 
 Outside of that, I spend time solving DSA problems, learning system design, and contributing to open source.
 
