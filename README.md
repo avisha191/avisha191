@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at VIT Bhopal University (CGPA 9.19/10) with a strong interest in software engineering, backend development, and building scalable applications.
+I'm a Computer Science undergraduate at VIT Bhopal University (CGPA 9.25/10) with a strong interest in software engineering, backend development, and building scalable applications.
 
 Currently working as an AI and ML Intern at Venura Technologies, where I develop enterprise Retrieval-Augmented Generation (RAG) systems using FastAPI, LangChain, and FAISS.
 
